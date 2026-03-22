@@ -31,10 +31,9 @@
 
 ## ✨ Key Features
 
-✅ **Real-time Collaboration** - Work together with team members seamlessly  
 ✅ **Intuitive UI** - Clean, modern interface for effortless idea organization  
 ✅ **Responsive Design** - Optimized for desktop and mobile devices  
-✅ **Secure Backend** - Robust API with authentication and authorization  
+✅ **Secure Backend** - Robust API with CRUD Functionality.  
 ✅ **Data Persistence** - MongoDB for reliable data storage  
 ✅ **Scalable Architecture** - Built with modularity and performance in mind  
 
