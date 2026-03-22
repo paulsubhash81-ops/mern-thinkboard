@@ -1,4 +1,4 @@
-# 🧠 MERN Thinkboard
+# 🧠 Thinkboard - Productivity Notes App.
 
 > A modern, collaborative thought management platform built with the MERN stack. Organize, visualize, and share your ideas seamlessly.
 
