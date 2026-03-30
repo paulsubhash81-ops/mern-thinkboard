@@ -13,7 +13,6 @@
 - [Getting Started](#getting-started)
 - [Installation](#installation)
 - [Running the Application](#running-the-application)
-- [Contributing](#contributing)
 
 ---
 
@@ -147,56 +146,6 @@ Ensure you have the following installed on your system:
 3. **Access the Application**
    - Frontend: `http://localhost:3000`
    - Backend API: `http://localhost:5000`
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! To contribute to MERN Thinkboard:
-
-1. **Fork** the repository
-2. **Create** a new feature branch (`git checkout -b feature/AmazingFeature`)
-3. **Commit** your changes (`git commit -m 'Add some AmazingFeature'`)
-4. **Push** to the branch (`git push origin feature/AmazingFeature`)
-5. **Open** a Pull Request
-
-### Contribution Guidelines
-- Follow the existing code style and conventions
-- Write clear commit messages
-- Include meaningful PR descriptions
-- Test your changes before submitting
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-## 👨‍💻 Author
-
-**Developed by:** [paulsubhash81-ops](https://github.com/paulsubhash81-ops)
-
-**Repository:** [mern-thinkboard](https://github.com/paulsubhash81-ops/mern-thinkboard)
-
----
-
-## 🌟 Show Your Support
-
-If you find this project helpful, please consider:
-- ⭐ Starring the repository
-- 🔄 Sharing it with your network
-- 🚀 Contributing to its development
-
----
-
-## 📞 Support & Contact
-
-For questions, issues, or suggestions, please:
-- Open an [Issue](https://github.com/paulsubhash81-ops/mern-thinkboard/issues)
-- Start a [Discussion](https://github.com/paulsubhash81-ops/mern-thinkboard/discussions)
-- Review the [Wiki](https://github.com/paulsubhash81-ops/mern-thinkboard/wiki)
 
 ---
 
